@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="HealthProfile:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HealthProfile_jar</output-path>
+    <root id="archive" name="HealthProfile.jar">
+      <element id="module-output" name="HealthProfile" />
+    </root>
+  </artifact>
+</component>
